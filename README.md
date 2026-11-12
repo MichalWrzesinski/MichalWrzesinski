@@ -1,8 +1,11 @@
 # Hello, I'm Michał 👋
 
-**Senior Backend Developer** · PHP · Python · AI/LLM integration
+**Senior Backend Developer** · PHP / Symfony · Python for AI · LLM Integration
 
-I build backend systems and APIs in **Symfony, Laravel and FastAPI**, and I connect them to **LLMs** in a way that stays reliable when the AI provider doesn't.
-I work AI-assisted with **Claude Code**, but I own the result: tests, CI, code review and clear documentation come with everything I ship.
+I’m a Senior Backend Developer with years of experience in PHP and Symfony. I use AI coding agents, primarily Claude Code, from requirements analysis through testing. I review the solutions they propose and take responsibility for the code I ship.
 
-📍 Poland · 💼 Open to backend / AI engineering roles · 🌐 [webhome.pl](https://webhome.pl)
+In my own projects, I’m building experience integrating large language models (LLMs) into applications. I work with Python, FastAPI, and the OpenAI API, using retrieval-augmented generation (RAG) and structured outputs. I also develop standards for working with AI coding agents.
+
+My professional experience includes developing REST APIs and payment integrations for a SaaS platform serving 80 catering brands. I migrated background jobs to AWS SQS and optimized PostgreSQL queries to cut report generation time from about five minutes to 30 seconds.
+
+📍 Poland, Bydgoszcz (remote) · 💼 Open to backend / AI engineering roles · 🌐 [webhome.pl](https://webhome.pl)
