@@ -8,4 +8,4 @@ In my own projects, I’m building experience integrating large language models 
 
 My professional experience includes developing REST APIs and payment integrations for a SaaS platform serving 80 catering brands. I migrated background jobs to AWS SQS and optimized PostgreSQL queries to cut report generation time from about five minutes to 30 seconds.
 
-📍 Poland, Bydgoszcz (remote) · 🌐 [webhome.pl](https://webhome.pl)
+📍 Poland, Bydgoszcz (remote) · 🌐 [webhome.pl](https://webhome.pl) · 🌐 [gitpush.app](https://gitpush.app)
